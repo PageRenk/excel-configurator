@@ -83,3 +83,10 @@ Die Datei kann frei genutzt, erweitert oder verändert werden.
 Wer etwas verbessert, kann die Änderung gerne als Pull Request einreichen oder als eigene Version veröffentlichen.
 
 Dieses Projekt wird im Laufe der Zeit wachsen – abhängig davon, welche Logiken in realen Projekten sinnvoll sind und welche nicht.
+
+
+⸻
+
+Vorstellung
+
+https://andreasrenk.de/impulse/excel-konfigurator-für-die-angebotskalkulation-ein-pragmatischer-ansatz
